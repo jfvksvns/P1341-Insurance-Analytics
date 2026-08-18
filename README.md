@@ -241,9 +241,8 @@ This project strengthened practical knowledge in:
 
 # 👨‍💻 Author
 
-**Guru**
-
-Final Year – Computer Science & Engineering
+M H PRASHANTH
+Data Analyst Aspirant
 
 ---
 
